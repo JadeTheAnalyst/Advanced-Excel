@@ -1,1 +1,1 @@
-The dynamic dashboard in Excel is created to monitor the "Crowd funding" business performance over the years based on number of completed projects and raised fund using Pivot table, Pivot chart and Slicers.
+The dynamic dashboard is created in Excel to monitor the "Crowd funding" business performance over the years based on number of completed projects and raised fund using Pivot table, Pivot chart and Slicers.

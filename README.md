@@ -1,2 +1,1 @@
-# Excel
- 
+# Created a dynamic dashboard in Excel to monitor the “Crowd funding” business performance over the years based on number of completed projects and raised fund using Pivot table, Pivot chart and Slicers. (WeCloudData Bootcamp)
